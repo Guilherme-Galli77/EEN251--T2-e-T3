@@ -13,7 +13,7 @@ Daniel Scabar                                           RA: 18.01775-4
 
 ## Video do projeto
 
-[Link do vídeo do projeto em execução]()
+[Link do vídeo do projeto em execução](https://youtu.be/WJ3uf7hFzIo)
 
 ## Projeto desenvolvido
 
