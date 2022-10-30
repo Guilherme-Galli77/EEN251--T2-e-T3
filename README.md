@@ -20,7 +20,7 @@ Daniel Scabar                                           RA: 18.01775-4
 A ideia central de nosso projeto foi criar uma fechadura eletronica utilizando um algoritmo de reconhecimento facial para garantir a autenticação e autorização. O sistema foi concebido para funcionar após a ativação de um botão, que realiza a captura de uma imagem através da câmera conectada ao Raspberry, essa imagem é comparada com outras dentro de um modelo de machine learning em cloud, caso haja correspondência, a fechadura é aberta. No T3 esse sistema foi adaptado para funcionar de forma remota, utilizando uma dashboard que exibe o status da fechadura.
 
 ### Imagem do circuito criado
-![alt text](Imagens/circuito1.jpeg "Circuito")
+![alt text](Imagens/WhatsApp Image 2022-10-30 at 11.37.59(4).jpeg "Circuito")
 
 
 
